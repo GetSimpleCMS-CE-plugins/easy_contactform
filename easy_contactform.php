@@ -8,7 +8,7 @@ i18n_merge('easy_contactform') || i18n_merge('easy_contactform','en_US');
 register_plugin(
 	$thisfile, //Plugin id
 	'Easy_ContactForm', 	//Plugin name
-	'5.0', 		//Plugin version
+	'5.0b', 		//Plugin version
 	'Mateusz Skrzypczak',  //Plugin author
 	'https://multicolor.stargard.pl/', //author website
 	'Easy Contact form for your page', //Plugin description
